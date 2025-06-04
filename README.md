@@ -35,7 +35,7 @@
 ### ✅ ধাপে ধাপে ইনস্টল নির্দেশনা:
 
 1. নিচের লিংকে ক্লিক করে APK ফাইলটি ডাউনলোড করুন:  
-   👉 [⬇️ **Amader Kandughar.apk ডাউনলোড করুন**](https://example.com/path/to/AmaderKandughar.apk)
+   👉 [⬇️ **Amader Kandughar.apk ডাউনলোড করুন**](https://github.com/Appter/amader-kandughar-mobile-app/releases/download/v1.0.0/app-release.apk)
 
 2. ডাউনলোড শেষ হলে, আপনার ফোনের **Downloads** ফোল্ডারে গিয়ে ফাইলটি খুলুন।
 
